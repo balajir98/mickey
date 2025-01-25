@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Page title</title>
+</head>
+<body>
+<h1>Expness Tracker</h1>
+<form action = "">
+<label for = "ename">Expense Name:</label>
+<input type = "text" id= "ename" name="fname"><br><br>
+<label for = "eamount">Expense Amount:</label>
+<input type = "text" id= "eamount" name="fname"><br><br>
+<label for = "emode">Expense Mode:</label>
+<input type = "text" id= "emode" name="fname"><br><br>
+<label for = "edate">Expense Date:</label>
+<input type = "date" id= "edate" name="fdate"><br><br>
+<label for = "econte">Contribution%:</label>
+<input type = "text" id= "emode" name="fname"><br><br>
+<label for = "ecategeory">Categeory:</label>
+<input type = "text" id= "emode" name="fname"><br><br>
+<label for = "econte">Sub-categeory:</label>
+<input type = "text" id= "emode" name="fname"><br><br>
+<label for = "econte">Description:</label>
+<input type = "text" id= "emode" name="fname"><br><br>
+<input type="submit" value="Submit">
+
+</form>
+   
+</body>
+</html>
